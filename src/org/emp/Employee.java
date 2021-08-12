@@ -20,7 +20,9 @@ public class Employee {
 		System.out.println("emp name is : mithul");
 	}
 	
-	
+	private void empId() {
+		System.out.println("emp name is : mithul");
+	}
 	
 	
 	
